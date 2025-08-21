@@ -55,12 +55,5 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem-sobhy&show_icons=true&locale=en&layout=compact" alt="hazem-sobhy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem-sobhy&show_icons=true&locale=en&layout=compact" alt="hazem-sobhy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazem-sobhy&show_icons=true&locale=en" alt="hazem-sobhy" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazem-sobhy" alt="hazem-sobhy" /></a> </p>
-
-<img src="https://raw.githubusercontent.com/Hazem-sobhy/Hazem-sobhy/output/snake.svg" alt="Snake animation" />
-
-###
