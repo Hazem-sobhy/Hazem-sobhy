@@ -11,9 +11,7 @@
 
 - 📫 How to reach me **hazembusiness3775@gmail.com**
 
-- ## 📄 Resume / CV  
-👉 **[Click here to view my CV](https://drive.google.com/drive/folders/1D3bdR3Sf0d-BaVWpZ2VQn9oi1R_F01rj?usp=drive_link)**  
-
+- ## 📄[Resume / CV](https://drive.google.com/drive/folders/1D3bdR3Sf0d-BaVWpZ2VQn9oi1R_F01rj?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
