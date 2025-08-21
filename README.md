@@ -3,7 +3,7 @@
 </div>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hazem-sobhy&label=Profile%20views&color=0e75b6&style=flat" alt="hazem-sobhy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hazem-sobhy&label=Profile%20views&color=0e75b6&style=flat" alt="hazem-sobhy" /> </p>
 <h1 align="center">Hi 👋, I'm Hazem Mohamed Sobhy</h1>
 <h3 align="center">A passionate Junior Penetration Tester</h3>
 
