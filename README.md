@@ -7,9 +7,9 @@
 <h1 align="center">Hi 👋, I'm Hazem Mohamed Sobhy</h1>
 <h3 align="center">A passionate Junior Penetration Tester</h3>
 
-- 🌱 I’m currently learning **Penetration testing**
+- ##🌱 I’m currently learning **Penetration testing**
 
-- 📫 How to reach me **hazembusiness3775@gmail.com**
+- ##📫 How to reach me **hazembusiness3775@gmail.com**
 
 - ## 📄[Resume / CV](https://drive.google.com/drive/folders/1D3bdR3Sf0d-BaVWpZ2VQn9oi1R_F01rj?usp=drive_link)
 
