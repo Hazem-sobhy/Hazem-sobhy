@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hazembusiness3775@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1D3bdR3Sf0d-BaVWpZ2VQn9oi1R_F01rj?usp=drive_link](https://drive.google.com/drive/folders/1D3bdR3Sf0d-BaVWpZ2VQn9oi1R_F01rj?usp=drive_link)
+- [![CV](https://img.shields.io/badge/📄_View-CV-blue?style=for-the-badge)](https://drive.google.com/drive/folders/1D3bdR3Sf0d-BaVWpZ2VQn9oi1R_F01rj?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
