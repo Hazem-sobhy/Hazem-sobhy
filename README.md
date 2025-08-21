@@ -57,3 +57,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem-sobhy&show_icons=true&locale=en&layout=compact" alt="hazem-sobhy" /></p>
 
+![Pac-Man](https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif)
+
+
