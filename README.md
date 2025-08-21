@@ -57,6 +57,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem-sobhy&show_icons=true&locale=en&layout=compact" alt="hazem-sobhy" /></p>
 
-![Pac-Man](https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hazem-sobhy/Hazem-sobhy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hazem-sobhy/Hazem-sobhy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hazem-sobhy/Hazem-sobhy/output/pacman-contribution-graph.svg">
+</picture>
 
 
